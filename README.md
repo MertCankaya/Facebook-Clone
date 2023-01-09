@@ -2,7 +2,7 @@
 A Facebook Clone application that you can sign in with your Google Account and send realtime posts.
 
 ## Facebook Clone Demo Link
-<a href="https://facebook-6c852.firebaseapp.com/">click me</a> for demo.
+<a href="https://facebook-clone-8ea07.web.app/">click me</a> for demo.
 
 
 ## Topics
